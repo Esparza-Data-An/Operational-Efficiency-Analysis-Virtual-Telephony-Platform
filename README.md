@@ -1,8 +1,8 @@
-# Inefficient Operator Detection — CallMeMaybe
+# Inefficient Operator Detection 
 
 ## Overview
 This project develops a data-driven methodology to identify underperforming 
-operators within a virtual telephony platform (CallMeMaybe), defining 
+operators within a virtual telephony platform, defining 
 inefficiency as a combination of high missed call rates, prolonged wait times, 
 and low outbound call volume.
 
