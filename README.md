@@ -8,7 +8,6 @@ and low outbound call volume.
 
 ## Note on Language
 The Jupyter notebook and internal comments are currently in Spanish. 
-An English version is in progress.
 
 ## Tools & Libraries
 Python · Pandas · SciPy · Seaborn · Matplotlib · Tableau
